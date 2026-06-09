@@ -1,0 +1,90 @@
+table
+{
+       width:30%;
+          box-shadow: 0px 2px 4px #969990;
+          }
+          .up_style{
+        background-color:green;
+        height:180px;
+        color:#ffffff;
+        font-family:Tahoma;
+        font-size:20px ;
+        }
+        .up_style .logo{
+            height: 100px;
+            width: 100px;
+           padding-right: 100px;
+            padding-top: 50px;
+                   
+        }
+        img{
+        margin-left: 115px;
+        margin-top: -43px;
+        border-round: 100%;  
+        
+        margin-bottom:px;
+    }
+        .down_style{  
+        padding-left: 45px; 
+        background-color: #ffffff;
+    }
+        
+        input{   
+        width: 300px; 
+        height: 35px;
+        border-radius:10px
+    }
+    .log_in{  
+        background-color: #3232da;  
+        width: 308px;   
+        border: none;
+        height: 29px; 
+        border-radius: 7px;
+        color: #ffffff; 
+        cursor: pointer;
+        margin-left:15px;
+    }
+        .log_in:hover{  
+        background-color: green;  
+        color: white;
+        opacity:0.7;
+    }
+    h1{ 
+        font-size: 30px;
+        margin:left;
+        color:darkblue; 
+        text-align: center;
+    }
+    h2{ 
+        font-size: 25px;
+        color: green; 
+        text-align: center;
+    }
+        button{
+        background:green;
+        border-radius:20px;  
+         width: 80%;
+         height:37px;
+         cursor:pointer;
+         text:center;   
+        color:white;
+        align:center;
+        font :Tahoma;
+        size:12px
+        }
+        button:hover
+        {
+        opacity:0.7;
+    }
+        h4{
+            text-align:center;
+            font:tahoma;
+            color:darkblue;
+            font-size:20px;
+            border-radius:12px;
+        }
+        p{ 
+        font-size:;
+        color: 000fff; 
+        text-align: center;
+    }

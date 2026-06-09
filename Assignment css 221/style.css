@@ -1,0 +1,16 @@
+   /* Hapa unaweza kuongeza mitindo ya CSS */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}textarea {
+    width: 100%;
+    box-sizing: border-box;
+}.saveBtn, .editBtn, #submitBtn {
+    padding: 5px 10px;
+    cursor: pointer;
+} 
